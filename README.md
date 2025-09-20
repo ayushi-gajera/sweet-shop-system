@@ -1,19 +1,25 @@
-Sweet Shop Management System
+# Sweet Shop Management System
 
 Sweet Shop Management System – A full-stack web application built with Next.js and MongoDB that allows users to browse and purchase sweets online. The platform includes authentication using JWT, an admin panel to manage inventory (add, edit, delete, restock sweets), and a user dashboard for tracking purchases.
 
 # Features
 
 ♦ User Authentication (Register/Login/Logout)
+
 ♦ Role-based Access (Admin vs Normal User)
+
 ♦ Add / Edit / Delete sweets (Admin only)
+
 ♦ Browse sweets and place orders (Users)
+
 ♦ Responsive UI with modern styling
 
 # Tech Stack
 
 • Frontend: Next.js (React), CSS
+
 • Authentication: JWT (JSON Web Token)
+
 • Database: MongoDB
 
 # Getting Started
